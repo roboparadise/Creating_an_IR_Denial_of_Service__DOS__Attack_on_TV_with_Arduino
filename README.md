@@ -1,2 +1,2 @@
 # Creating_an_IR_Denial_of_Service__DOS__Attack_on_TV_with_Arduino
-check this link (https://roboparadise.pythonanywhere.com/static/project-1.html) for more info.
+This code is designed to be uploaded to an Arduino Uno microcontroller board. Once uploaded, the device will function by transmitting a series of infrared signals to your television or setup box, overwhelming the receiver and causing it to become unresponsive to any other signals sent. It is important to note that this code is intended for educational purposes only, and should not be used for any illegal activities.Check this link (https://roboparadise.pythonanywhere.com/static/project-1.html) for more info.

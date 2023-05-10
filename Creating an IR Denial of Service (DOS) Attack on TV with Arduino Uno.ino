@@ -19,4 +19,5 @@ void loop() {
   irsend.sendRaw(randomData, 67, 38);  // Utilizing the IR transmitter, the array of randomized integers is transmitted at a precisely tuned frequency of 38 kHz. This seamlessly sends the array as it is initiated and executed within the loop function.You can adjust the frequency of the IR transmission according to the frequency of the user's TV.
   
 }
-//This code send a bunch of random arrays to the tv continuously thus flooding the tv or the setup box
+//This code send a bunch of random arrays to the tv continuously thus flooding the tv or the setup box.
+//By Devadath Renjith(https://roboparadise.pythonanywhere.com)
